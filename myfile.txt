@@ -10,3 +10,5 @@ pen
 pencil
 
 phone
+eraser
+
